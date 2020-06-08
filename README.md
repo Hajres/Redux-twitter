@@ -1,5 +1,5 @@
 # Redux-twitter
-An app lets you interact with other peoples tweets.
+An app lets you interact with other people's tweets.
 
 App here :https://festive-shaw-df7c5c.netlify.app/
 
